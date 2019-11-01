@@ -1,0 +1,124 @@
+@media (max-width: 1000px) {
+
+.headerLogo{
+  height: 38px;
+  margin: 21px 5px
+}
+.breaker{
+  display: block;
+}
+.none{
+  display: none;
+}
+.insideTheShop{
+  background-position: center;
+  height: 1400px;
+  padding-left: 0px;
+}
+.subtitle-box{
+  float: none;
+  margin: 0 auto;
+  width: 90%;
+}
+.buttonarea{
+  padding: 30px 10px 0px 10px;
+  float: none;
+  text-align: center;
+}
+.btn:active{
+  position: relative;
+  top: 6px;
+  box-shadow: none;
+}
+.menubox{
+  height: 800px;
+
+}
+.menus li{
+  width:25%;
+}
+.googlemap{
+  padding-bottom: 170px;
+}
+
+
+}
+
+@media (max-width: 670px){
+.none{
+  display: none;
+}
+.fly{
+  padding: 0px;
+}
+.fly li{
+  margin: 0;
+}
+.insideTheShop{
+  background-position: center;
+  height: 1100px;
+  padding-left: 0px;
+}
+.subtitle-box{
+  width: 90%;
+  margin: 0 auto;
+}
+.subtitle-box h1{
+  font-size: 40px;
+}
+.asakusaColor{
+  font-size: 60px;
+}
+.subtitle-box h2{
+  font-size: 20px
+}
+.subtitle-box img{
+  width: 90%;
+}
+.buttonarea{
+  padding: 30px 10px 0px 10px;
+  float: none;
+  text-align: center;
+}
+.btn:active{
+  position: relative;
+  top: 6px;
+  box-shadow: none;
+}
+.priceContainer{
+  height: 300px;
+}
+.pricebox{
+  width: 90%;
+  overflow-x: scroll;
+}
+.title{
+  font-size: 20px;
+}
+.item{
+   font-size: 6px;
+}
+.cone{
+  max-width: 60px;
+}
+.cup{
+  max-width: 80px;
+}
+.mega{
+  max-width: 60px;
+}
+.two{
+  margin-top: 20px;
+}
+
+.menubox{
+  height: 600px;
+}
+.menus li{
+  width: 50%;
+}
+.access-box{
+  font-size: 12px
+}
+
+}
